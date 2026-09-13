@@ -3,7 +3,7 @@ LwCELL |version| documentation
 
 Welcome to the documentation for version |version|.
 
-LwCELL is lightweight, platform independent, cellular modem AT commands parser, targeting (as of today) communication with *SIMCOM* based modules *SIM800/SIM900* or *SIM70xx*.
+LwCELL is a lightweight, platform independent, cellular modem AT commands parser, targeting (as of today) communication with *SIMCOM* based modules *SIM800/SIM900* or *SIM70xx*.
 The module is written in C11 and is independent of the platform it runs on. Its main targets are embedded system devices like ARM Cortex-M, AVR, PIC and others, but can easily work under *Windows*, *Linux* or *MAC* environments.
 
 .. image:: static/images/logo.svg
